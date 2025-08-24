@@ -1,0 +1,5 @@
+{
+    "sensitive_keys" : [
+        "config.json/AdbDevice"
+    ]
+}
