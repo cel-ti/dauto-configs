@@ -1,0 +1,6 @@
+{
+    "sensitive_keys" : [
+        "config.json/AdbDevice",
+        "config.json/BeforeTask"
+    ]
+}
