@@ -2,5 +2,7 @@
     "sensitive_keys" : [
         "config.json/AdbDevice",
         "config.json/BeforeTask"
-    ]
+    ],
+    "lifetime" : 850,
+    "priority" : 1
 }
